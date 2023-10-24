@@ -57,7 +57,8 @@ To run this project, you will need access to Databricks Community Edition and Py
 
 1. Clone this repository to your local machine.
 2. Import the provided dbc file or Python script into your Databricks workspace.
-3. Execute the code in your Databricks environment to perform the data analysis tasks.
+3. To view the code download html file and open it in any browser.
+4. Execute the code in your Databricks environment to perform the data analysis tasks.
 
 ## Contributing
 
