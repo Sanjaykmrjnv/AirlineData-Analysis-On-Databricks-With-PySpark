@@ -56,7 +56,7 @@ The project covers various data manipulation and analysis tasks, providing a ste
 To run this project, you will need access to Databricks Community Edition and PySpark. Make sure you have the required libraries and dependencies installed.
 
 1. Clone this repository to your local machine.
-2. Import the provided Jupyter Notebook or Python script into your Databricks workspace.
+2. Import the provided dbc file or Python script into your Databricks workspace.
 3. Execute the code in your Databricks environment to perform the data analysis tasks.
 
 ## Contributing
